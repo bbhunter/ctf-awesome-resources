@@ -83,15 +83,18 @@ Check [solve section for steganography](#steganography-1).
 
 *Tools used for solving Crypto challenges*
 
+ - [Bacon Cipher](https://www.dcode.fr/bacon-cipher) - Bacon cipher encoder and decoder.
  - [Base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64.
  - [Braille Translator](https://www.branah.com/braille-translator) - Translate from braille to text.
  - [Ciphey](https://github.com/Ciphey/Ciphey) - Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.
+ - [Crib Drag](https://toolbox.lotusfa.com/crib_drag/) - One-Time Pad (OTP) cracking tool.
  - [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis.
  - [Cryptii](https://cryptii.com/) - Modular conversion, encoding and encryption online.
  - [dCode.fr](https://www.dcode.fr/tools-list#cryptography) - Solvers for Crypto, Maths and Encodings online.
  - [Decodify](https://github.com/s0md3v/Decodify) - Detect and decode encoded strings, recursively.
  - [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) - Universal Enigma Machine Simulator.
  - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool.
+ - [Morse Code Translator](https://morsecode.world/international/translator.html) - Morse code translator and decoder.
  - [Galois](http://web.eecs.utk.edu/~jplank/plank/papers/CS-07-593/) - A fast galois field arithmetic library/toolkit.
  - [HashExtender](https://github.com/iagox86/hash_extender) - Tool for performing hash length extension attacks.
  - [Hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) - Simple hash algorithm identifier.
@@ -104,6 +107,7 @@ Check [solve section for steganography](#steganography-1).
  - [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA multi attacks tool.
  - [RSATool](https://github.com/ius/rsatool) - Tool to to calculate RSA and RSA-CRT parameter.
  - [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) - Collection of ciphhers/encoders tools.
+ - [Substitution Cipher](https://www.dcode.fr/substitution-cipher) - Substitution cipher solver.
  - [Vigenere Solver](https://www.guballa.de/vigenere-solver) - Online tool that breaks Vigenère ciphers without knowing the key.
  - [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) - Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.
  - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
@@ -167,6 +171,7 @@ Check [solve section for steganography](#steganography-1).
  - [Hydra](https://www.kali.org/tools/hydra/) - Parallelized login cracker which supports numerous protocols to attack.
  - [John the Ripper](https://www.openwall.com/john/) - Open Source password security auditing and password recovery.
  - [jwt_tool](https://github.com/ticarpi/jwt_tool) - A toolkit for testing, tweaking and cracking JSON Web Tokens.
+ - [Nozzlr](https://github.com/intrd/nozzlr) - Modular and script-friendly bruteforce framework.
  - [Ophcrack](https://ophcrack.sourceforge.io/) - Free Windows password cracker based on rainbow tables.
  - [Patator](https://github.com/lanjelot/patator) - Multi-purpose brute-forcer, with a modular design and a flexible usage.
  - [Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988) - Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
